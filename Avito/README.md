@@ -27,10 +27,10 @@
 
 ### Результат 3 этапа *Создание тб-бота*
 Рабочий тг-бот для прогнозирования цены и отправки ссылки на похожие объекты
-| first example | second example |
+|  |  |
 | :---: | :---: |
 |![](./Images/tg-bot-1.png)  |  ![](./Images/tg-bot-2.png) |
 |![](./Images/tg-bot-3.png)  |  ![](./Images/tg-bot-4.png) |
 |![](./Images/tg-bot-5.png)  |  ![](./Images/tg-bot-6.png) |
 
-<img src="./Images/tg-bot-7.png" width="600"/>
+<img src="./Images/tg-bot-7.png" width="800"/>
