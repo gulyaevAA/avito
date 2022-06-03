@@ -14,7 +14,7 @@
 1. развертывание модели в тг-боте.
 
 ## Этапы:
-1. [*Парсинг данных и создание датасета*](/Parsing-and-creating-df.ipynb)
+1. [*Парсинг данных и создание датасета*](./Parsing-and-creating-df.ipynb)
 1. [*Feature engineering и построение модели*](./FE-and-ML.ipynb)
 1. [*Создание тб-бота*](./tg-bot.ipynb)
 
