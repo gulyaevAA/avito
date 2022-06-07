@@ -10,6 +10,6 @@
 
 ---
 
-[Резюме](https://drive.google.com/file/d/1LSHfpvPJqTj1fmGbas6G9EtAS2bIK-hN/view?usp=sharing)
+[Резюме](https://drive.google.com/drive/folders/1KCLeTOyzp5fIcDKlczuT_plkvBXQZps0?usp=sharing)
 
-[Сертификаты о прохождении курсов](https://drive.google.com/file/d/1ENUCpJbtuKgS39LNjsUKUBxvYejpc3S4/view?usp=sharing)
+[Сертификаты об участии и прохождении курсов, личные кабинеты](https://drive.google.com/drive/folders/1VpOrp0IaRoLR0cDownQIoGaLVFuaPOxj?usp=sharing)
