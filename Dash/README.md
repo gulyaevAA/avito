@@ -24,8 +24,8 @@
 5. развертывание дашборда на heroku.
 
 ## Этапы
-1. Парсинг и сохранение данных.
-2. Разработка дашборда.
+1. [Парсинг и сохранение данных.](https://github.com/gulyaevAA/pet-projects/blob/main/Dash/Parsing-using-api.ipynb)
+2. [Разработка дашборда.](https://github.com/gulyaevAA/pet-projects/blob/main/Dash/Dashboard.ipynb)
 3. Развертывание на heroku.
 
 ### Результат 1 этапа "*Парсинг и сохранение данных*"
