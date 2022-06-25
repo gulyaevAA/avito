@@ -29,6 +29,10 @@
 3. Развертывание на heroku.
 
 ### Результат 1 этапа "*Парсинг и сохранение данных*"
+Получены 3 csv файла:
+- (IMKT.csv)[https://github.com/gulyaevAA/pet-projects/blob/main/Dash/IMKT.csv] с данными по всем постам группы;
+- (IMKT-comments.csv)[https://github.com/gulyaevAA/pet-projects/blob/main/Dash/IMKT-comments.csv] с данными по всем комментариям каждого поста группы;
+- (IMKT-members.csv)[https://github.com/gulyaevAA/pet-projects/blob/main/Dash/IMKT-members.csv] с данными по все участникам группы.
 
 ### Результат 2 этапа "*Разработка дашборда*"
 
