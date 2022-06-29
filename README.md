@@ -13,4 +13,4 @@
 
 [Резюме](https://drive.google.com/drive/folders/1KCLeTOyzp5fIcDKlczuT_plkvBXQZps0?usp=sharing)
 
-[Сертификаты об участии и прохождении курсов, личные кабинеты](https://drive.google.com/drive/folders/1VpOrp0IaRoLR0cDownQIoGaLVFuaPOxj?usp=sharing)
+[Сертификаты об участии в соревнованиях и прохождении курсов, личные кабинеты](https://drive.google.com/drive/folders/1VpOrp0IaRoLR0cDownQIoGaLVFuaPOxj?usp=sharing)
