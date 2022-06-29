@@ -26,7 +26,7 @@
 ## Этапы
 1. [Парсинг и сохранение данных.](https://github.com/gulyaevAA/pet-projects/blob/main/Dash/Parsing-using-api.ipynb)
 2. [Разработка дашборда.](https://github.com/gulyaevAA/pet-projects/blob/main/Dash/Dashboard.ipynb)
-3. Развертывание на heroku.
+3. [Развертывание на Heroku.](https://github.com/gulyaevAA/deploy)
 
 ### Результат 1 этапа "*Парсинг и сохранение данных*"
 Получены 3 csv файла:
@@ -35,5 +35,7 @@
 - [IMKT-members.csv](https://github.com/gulyaevAA/pet-projects/blob/main/Dash/IMKT-members.csv) с данными по все участникам группы.
 
 ### Результат 2 этапа "*Разработка дашборда*"
-
-### Результат 3 этапа "*Развертывание на heroku*"
+Реализован дашборд, запускаемый на локальном сервере.
+### Результат 3 этапа "*Развертывание на Heroku*"
+При развертывании приложения создал новый репозиторий.
+Дашборд развернут на heroku - [ссылка](http://dashboard-vk.herokuapp.com/).
