@@ -7,7 +7,7 @@
 | [Dash](https://github.com/gulyaevAA/pet-projects/tree/main/Dash) | Парсинг данных группы vk.com, используя API Вконтакте, создание дашборда и деплой на Heroku| requests, csv, API Вконтакте, dash(Dash, html, dcc), dash_bootstrap_components, dash.dependencies(Input, Output), plotly.graph_objects, plotly.express, Heroku |
 
 
-Общий стэк для вышеописанных проектов: pandas, numpy, matplotlib, seaborn, sklearn.
+Общий стэк для вышеописанных проектов: pandas, numpy, matplotlib, seaborn.
 
 ---
 
